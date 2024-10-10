@@ -1,6 +1,11 @@
 # 💫 About Me:
-¡Hola! Soy un apasionado programador de 23 años de Costa Rica, siempre en busca de nuevos retos y oportunidades para aprender y crecer. Desde que descubrí el mundo de la programación, he estado fascinado por su capacidad para transformar ideas en soluciones tangibles.<br><br>Me especializo en aplicaciones móviles, desarrollo web, pero mi curiosidad me impulsa a explorar diversas tecnologías y lenguajes. Estoy ansioso por colaborar en proyectos innovadores donde pueda aportar mis habilidades y también aprender de otros talentosos desarrolladores.<br><br>Mi objetivo es sobresalir en este campo, y creo firmemente que la mejor manera de hacerlo es a través de la colaboración y la experiencia práctica. Estoy abierto a contribuir en proyectos interesantes y desafiantes que me permitan crecer profesionalmente y dejar una huella positiva.<br><br>Si buscas un programador entusiasta, dispuesto a trabajar en equipo y a enfrentar nuevos desafíos, ¡no dudes en contactarme! Estoy emocionado por lo que el futuro tiene reservado y por la posibilidad de formar parte de proyectos que marquen la diferencia.
+Hello! I am a passionate 23-year-old programmer from Costa Rica, always seeking new challenges and opportunities to learn and grow. Ever since I discovered the world of programming, I have been fascinated by its ability to transform ideas into tangible solutions.
 
+I specialize in mobile applications and web development, but my curiosity drives me to explore various technologies and languages. I am eager to collaborate on innovative projects where I can contribute my skills and also learn from other talented developers.
+
+My goal is to excel in this field, and I firmly believe that the best way to do so is through collaboration and hands-on experience. I am open to contributing to interesting and challenging projects that allow me to grow professionally and make a positive impact.
+
+If you are looking for an enthusiastic programmer who is willing to work as part of a team and tackle new challenges, don't hesitate to reach out! I am excited about what the future holds and the possibility of being part of projects that make a difference.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FabricioSequeira) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FabricioSequei8) 
